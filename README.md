@@ -6,9 +6,9 @@
 <img src="https://github.com/zhouwenx1224/zhouwenx1224/blob/main/cvbox.org.notion-avatar-1677823595524.png" width="200" align="right"></img>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barryfeng/)](https://www.linkedin.com/in/barryfeng/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyash.srivastava14@gmail.com)](mailto:suyash.srivastava14@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xufeng2235@gmail.com)](mailto:xufeng2235@gmail.com)
 
-I am Barry. I am from Canton,China and currently doing my B.Tech from Vellore Institute of Technology 🏫.I love to do web development and open to learning new technologies.
+I am Barry. I am from Canton,China. I am currently a Business Data Analyst at UBS.I love to do web development and open to learning new technologies.
 
 ## 💻 Projects
 
