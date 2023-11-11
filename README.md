@@ -14,7 +14,7 @@ I am Barry. I am from Canton,China. I am currently a Business Data Analyst at UB
 
 * [Full-Stack Food Delivery System](https://github.com/zhouwenx1224/reggie_food_delivery_system)
 * 😊**COMIN SOON...**
-* [Portfolio](https://zhouwenx1224.github.io/)
+* [Portfolio](https://www.linkedin.com/in/barryfeng/)
 
 ## ⚡ Technologies
 
