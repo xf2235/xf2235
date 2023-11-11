@@ -62,7 +62,7 @@ I am Barry. I am from Canton,China. I am currently a Business Data Analyst at UB
 ## 👋 Reach out to me
 
 - 💬 Ask me about anything.
-- 🖼️ Portfolio site: [Portfolio](https://zhouwenx1224.github.io/)
+- 🖼️ Portfolio site: [Portfolio](https://www.linkedin.com/in/barryfeng/)
 - 💎 Fun fact: You lose automatically if you dont try.
 
 
