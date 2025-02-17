@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barryfeng/)](https://www.linkedin.com/in/barryfeng/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xufeng2235@gmail.com)](mailto:xufeng2235@gmail.com)
 
-I am Barry. I am from Canton,China. I am currently a Business Data Analyst at UBS.I love to do web development and open to learning new technologies.
+I am Barry from Canton,China. I am currently a Business Data Analyst at UBS.I love to do web development and open to learning new technologies.
 
 ## 💻 Projects
 
